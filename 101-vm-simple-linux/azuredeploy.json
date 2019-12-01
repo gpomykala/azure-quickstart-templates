@@ -64,7 +64,7 @@
     "publicIPAddressName": "myPublicIP",
     "publicIPAddressType": "Dynamic",
     "vmName": "MyUbuntuVM",
-    "vmSize": "Standard_A1",
+    "vmSize": "Standard_B1s",
     "virtualNetworkName": "MyVNET",
     "linuxConfiguration": {
       "disablePasswordAuthentication": true,
